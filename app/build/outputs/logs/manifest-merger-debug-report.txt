@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:3:5-57
+		INJECTED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\9df1fadf3051c8a6f7c6efa459afa3cb8f65be72\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\9df1fadf3051c8a6f7c6efa459afa3cb8f65be72\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:13:22-76
+application
+ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:15:5-44:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b8a9247b770cc456bd764f0bf3a5dceb01ae9024\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\893cb8dd8b375b85259a40e56bae78f2d38590db\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\3be6695c41f6f1cb505b29b0f5ef0092cead8d24\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\9df1fadf3051c8a6f7c6efa459afa3cb8f65be72\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\70fb84fe55c547c7d04f168a97f34b70b2b38b3d\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b961dc50638ab41f4c0dea30e5609af32c75ce44\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\e86bfa887cf45fec291d323b60cd8d9f2b4935e2\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\84e98bd677d5ba1f175906a1e5bce8a8f60390ce\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\c31cb3a4c9c6e777c97a19070e3470a28fdd3aa6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\fbc1e46a39b2bad54c84360515f8e7ce4272fbd5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\4a68705a90d75aa9bcf1c28102c662c428a30c75\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\6a4ac61e0389e1f43138b82627b04bd1c27c00dd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\c960dc0306a40d3e00952defb8b24f97d5704b3e\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:18:9-41
+	android:supportsRtl
+		ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:20:9-35
+	android:roundIcon
+		ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:19:9-54
+	android:allowBackup
+		ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:17:9-43
+	android:theme
+		ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:21:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:31:9-33:55
+	android:value
+		ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:33:13-52
+	android:name
+		ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:32:13-58
+activity#com.example.rezanurrochmat.currentlocation.MapsActivity
+ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:35:9-43:20
+	android:label
+		ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:36:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml:41:27-74
+uses-sdk
+INJECTED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b8a9247b770cc456bd764f0bf3a5dceb01ae9024\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\893cb8dd8b375b85259a40e56bae78f2d38590db\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\3be6695c41f6f1cb505b29b0f5ef0092cead8d24\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\9df1fadf3051c8a6f7c6efa459afa3cb8f65be72\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\70fb84fe55c547c7d04f168a97f34b70b2b38b3d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b961dc50638ab41f4c0dea30e5609af32c75ce44\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\e86bfa887cf45fec291d323b60cd8d9f2b4935e2\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\84e98bd677d5ba1f175906a1e5bce8a8f60390ce\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\c31cb3a4c9c6e777c97a19070e3470a28fdd3aa6\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\fbc1e46a39b2bad54c84360515f8e7ce4272fbd5\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\4a68705a90d75aa9bcf1c28102c662c428a30c75\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\6a4ac61e0389e1f43138b82627b04bd1c27c00dd\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\c960dc0306a40d3e00952defb8b24f97d5704b3e\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b8a9247b770cc456bd764f0bf3a5dceb01ae9024\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidProject\CurrentLocation\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b8a9247b770cc456bd764f0bf3a5dceb01ae9024\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\893cb8dd8b375b85259a40e56bae78f2d38590db\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\3be6695c41f6f1cb505b29b0f5ef0092cead8d24\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\84e98bd677d5ba1f175906a1e5bce8a8f60390ce\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\c31cb3a4c9c6e777c97a19070e3470a28fdd3aa6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\fbc1e46a39b2bad54c84360515f8e7ce4272fbd5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\4a68705a90d75aa9bcf1c28102c662c428a30c75\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\6a4ac61e0389e1f43138b82627b04bd1c27c00dd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\c960dc0306a40d3e00952defb8b24f97d5704b3e\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b8a9247b770cc456bd764f0bf3a5dceb01ae9024\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b8a9247b770cc456bd764f0bf3a5dceb01ae9024\output\AndroidManifest.xml:26:9-47
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\9df1fadf3051c8a6f7c6efa459afa3cb8f65be72\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\9df1fadf3051c8a6f7c6efa459afa3cb8f65be72\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\9df1fadf3051c8a6f7c6efa459afa3cb8f65be72\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\70fb84fe55c547c7d04f168a97f34b70b2b38b3d\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\70fb84fe55c547c7d04f168a97f34b70b2b38b3d\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\70fb84fe55c547c7d04f168a97f34b70b2b38b3d\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\70fb84fe55c547c7d04f168a97f34b70b2b38b3d\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\e86bfa887cf45fec291d323b60cd8d9f2b4935e2\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\e86bfa887cf45fec291d323b60cd8d9f2b4935e2\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\e86bfa887cf45fec291d323b60cd8d9f2b4935e2\output\AndroidManifest.xml:20:20-65
